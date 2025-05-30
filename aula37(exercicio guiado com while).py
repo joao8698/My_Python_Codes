@@ -5,11 +5,11 @@ Iterando strings com while
 # nome = 'Gabrielly' # Iteraveis
 #      -987654321
 
-nome = 'Gabrielly'
-tamanho_nome = len(nome)
+nome = 'Gabrielly Ensfeld Vieira'
 nova_str = ''
 indice = 0
-while indice < tamanho_nome:
-        nova_str += f'*{nome[indice]}*'
-        print(nova_str)
+while indice < len(nome):
+        nova_str += f'*{nome[indice]}'
         indice += 1
+nova_str += '*'
+print(nova_str)
