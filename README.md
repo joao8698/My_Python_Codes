@@ -7,6 +7,10 @@ Welcome to my repository, which contains all the Python code I’ve written whil
 
 You’ll find various Python scripts organized into folders, each representing different topics, exercises, or projects I worked on during my learning journey.
 
+**Please note:**  
+All comments in the code are written in **Portuguese**.  
+If you're not a Portuguese speaker, you may want to translate the comments to better understand the code.
+
 ## 🚀 How to use
 
 1. Clone or download this repository.
