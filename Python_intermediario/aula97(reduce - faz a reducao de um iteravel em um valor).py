@@ -1,0 +1,1 @@
+# reduce - faz a reducao de um iteravel em um valor

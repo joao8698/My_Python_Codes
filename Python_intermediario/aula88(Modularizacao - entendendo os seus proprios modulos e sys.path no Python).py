@@ -7,3 +7,13 @@
 # padrão
 # O python conhece todos os módulos e pacotes presentes
 # nos caminhos de sys.path
+
+# import sys
+
+import Package_Exemplo
+
+print('Este modulo se chama', __name__)
+
+print(Package_Exemplo.dobra(2))
+
+# print(*sys.path, sep='\n')
