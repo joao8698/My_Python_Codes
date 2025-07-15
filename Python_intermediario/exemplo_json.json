@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Gabrielly",
+        "last_name": "Vieira",
+        "age": 18,
+        "addresses": [
+            {
+                "rua": "Rua dos Gatos",
+                "numero": 55
+            }
+        ]
+    },
+    {
+        "name": "Joao",
+        "last_name": "Machado",
+        "age": 18,
+        "addresses": [
+            {
+                "rua": "Rua dos Gatos",
+                "numero": 55
+            }
+        ]
+    },
+    {
+        "name": "Aline",
+        "last_name": "Dias",
+        "age": 37,
+        "addresses": [
+            {
+                "rua": "Rua dos Chimarroes",
+                "numero": 47
+            }
+        ]
+    }
+]
