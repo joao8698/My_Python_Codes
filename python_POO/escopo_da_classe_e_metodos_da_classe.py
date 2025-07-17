@@ -1,0 +1,1 @@
+# Escopo da classe e metodos da classe
