@@ -1,0 +1,22 @@
+{
+  "Celta": {
+    "nome": "Celta",
+    "velocidade": 0
+  },
+  "Fiat": {
+    "nome": "Fiat",
+    "velocidade": 0
+  },
+  "Lamborghini": {
+    "nome": "Lamborghini",
+    "velocidade": 0
+  },
+  "Ferrari": {
+    "nome": "Ferrari",
+    "velocidade": 0
+  },
+  "Mazda": {
+    "nome": "Mazda",
+    "velocidade": 0
+  }
+}
